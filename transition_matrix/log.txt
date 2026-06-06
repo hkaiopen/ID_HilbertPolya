@@ -1,0 +1,4 @@
+Pearson correlation coefficient: 0.8366
+P-value: 1.5694e-08
+Conclusion: Strong positive correlation — supports model prediction.
+[Finished in 7.7s]
