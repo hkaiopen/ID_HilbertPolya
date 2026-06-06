@@ -1,0 +1,3 @@
+KS statistic: 0.0453
+p-value: 0.8165
+Conclusion: Cannot reject that both samples come from the same distribution (consistent with GUE)
